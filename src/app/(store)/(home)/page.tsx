@@ -10,7 +10,7 @@ export default async function Home() {
       >
         <Image
           src="/moletom-never-stop-learning.png"
-          className="group-hover:scale-105 transition-transform duration-300"
+          className="group-hover:scale-105 transition-transform duration-300 cursor-default"
           width={860}
           height={860}
           quality={100}
@@ -31,7 +31,7 @@ export default async function Home() {
       >
         <Image
           src="/moletom-java.png"
-          className="group-hover:scale-105 transition-transform duration-500"
+          className="group-hover:scale-105 transition-transform duration-500 cursor-default"
           width={480}
           height={480}
           quality={100}
@@ -52,7 +52,7 @@ export default async function Home() {
       >
         <Image
           src="/camiseta-dowhile-2022.png"
-          className="group-hover:scale-105 transition-transform duration-500"
+          className="group-hover:scale-105 transition-transform duration-500 cursor-default"
           width={480}
           height={480}
           quality={100}
